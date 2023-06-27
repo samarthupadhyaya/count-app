@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid black;
+    margin: 25% 25% 25% 25%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+#displayval{
+    width: 10px;
+    margin-left: 2px;
+    border: 2px solid black;
+}
+
+#increment {
+    margin-left: 10px;
+}
+#decrement{
+    margin-left: 30%;
+    align-items: center;
+    justify-content: center;
+}
+
+#reset{
+    margin-left: 45%;
+    margin-top: 10px;
+    padding: 5px;
+}
